@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FirstReact/static/css/main.d056dbd0.css",
-    "main.js": "/FirstReact/static/js/main.fe171eb3.js",
+    "main.css": "/FirstReact/static/css/main.593f932e.css",
+    "main.js": "/FirstReact/static/js/main.8217ca8c.js",
     "static/media/Iphone8.PNG": "/FirstReact/static/media/Iphone8.7eb9c19e32faec94a7a6.PNG",
     "static/media/Iphone6.png": "/FirstReact/static/media/Iphone6.5f94d9f8ada36e461d05.png",
     "static/media/Iphone3.png": "/FirstReact/static/media/Iphone3.1b05461f8aa974563573.png",
@@ -11,11 +11,11 @@
     "static/media/Iphone5.png": "/FirstReact/static/media/Iphone5.e28be22772f3cdcc5a37.png",
     "static/media/Iphone7.jpeg": "/FirstReact/static/media/Iphone7.466c20f223499879a6ea.jpeg",
     "index.html": "/FirstReact/index.html",
-    "main.d056dbd0.css.map": "/FirstReact/static/css/main.d056dbd0.css.map",
-    "main.fe171eb3.js.map": "/FirstReact/static/js/main.fe171eb3.js.map"
+    "main.593f932e.css.map": "/FirstReact/static/css/main.593f932e.css.map",
+    "main.8217ca8c.js.map": "/FirstReact/static/js/main.8217ca8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d056dbd0.css",
-    "static/js/main.fe171eb3.js"
+    "static/css/main.593f932e.css",
+    "static/js/main.8217ca8c.js"
   ]
 }
