@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/FirstReact/static/css/main.593f932e.css",
-    "main.js": "/FirstReact/static/js/main.8217ca8c.js",
+    "main.css": "/FirstReact/static/css/main.4ec2be63.css",
+    "main.js": "/FirstReact/static/js/main.f66ace4b.js",
     "static/media/Iphone8.PNG": "/FirstReact/static/media/Iphone8.7eb9c19e32faec94a7a6.PNG",
     "static/media/Iphone6.png": "/FirstReact/static/media/Iphone6.5f94d9f8ada36e461d05.png",
     "static/media/Iphone3.png": "/FirstReact/static/media/Iphone3.1b05461f8aa974563573.png",
     "static/media/iphone2.png": "/FirstReact/static/media/iphone2.6457a99f9a087c47b632.png",
     "static/media/iphone1.png": "/FirstReact/static/media/iphone1.5eaccce6502b4a2f73b2.png",
     "static/media/Iphone4.png": "/FirstReact/static/media/Iphone4.eeb659894076d106c1a5.png",
+    "static/media/iphone14.png": "/FirstReact/static/media/iphone14.fb8511b376f204d6a528.png",
+    "static/media/iphone10.jpeg": "/FirstReact/static/media/iphone10.616e37cdcbabd9bb4def.jpeg",
     "static/media/Iphone5.png": "/FirstReact/static/media/Iphone5.e28be22772f3cdcc5a37.png",
+    "static/media/iphone12.PNG": "/FirstReact/static/media/iphone12.b858fe03b95a651152f4.PNG",
+    "static/media/iphone13.jpeg": "/FirstReact/static/media/iphone13.9f4b62ae12ed0d0d72b9.jpeg",
     "static/media/Iphone7.jpeg": "/FirstReact/static/media/Iphone7.466c20f223499879a6ea.jpeg",
+    "static/media/iphone9.jpeg": "/FirstReact/static/media/iphone9.ad5cb36c7cb26be73d16.jpeg",
+    "static/media/iphone11.jpeg": "/FirstReact/static/media/iphone11.1c0265afbe0647876d2c.jpeg",
     "index.html": "/FirstReact/index.html",
-    "main.593f932e.css.map": "/FirstReact/static/css/main.593f932e.css.map",
-    "main.8217ca8c.js.map": "/FirstReact/static/js/main.8217ca8c.js.map"
+    "main.4ec2be63.css.map": "/FirstReact/static/css/main.4ec2be63.css.map",
+    "main.f66ace4b.js.map": "/FirstReact/static/js/main.f66ace4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.593f932e.css",
-    "static/js/main.8217ca8c.js"
+    "static/css/main.4ec2be63.css",
+    "static/js/main.f66ace4b.js"
   ]
 }
