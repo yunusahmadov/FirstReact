@@ -1,0 +1,317 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    overflow-x: hidden;
+}
+body{
+    font-size: 20px;
+    background-color: black;
+    overflow-x: hidden;
+}
+header{
+    width: 100%;
+    text-align: center;
+}
+.header_top{
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 123;
+    margin-top: 120px;
+}
+header h1{
+    color: #eed490 ;
+    font-size: 300%;
+}
+header h2{
+    color: white ;
+    font-size: 100%;
+}
+header h3{
+    color: white ;
+    font-size: 80%;
+    margin-top: 20px;
+    color: #111;
+}
+header img{
+    width: 1000px;
+    margin-top: 50px;
+    
+}
+.first-container{
+    background-image:url("../img/iphone2.png" );
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 100px;
+
+}
+.text-container{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: 60px;
+    padding-top: 100px;
+
+}
+.first-container h2{
+    text-align: right;
+    font-size: 48px;
+    color: #eed490 ;
+}
+.first-container p{
+    color: whitesmoke;
+    text-align: right;
+    font-size: 100%
+}
+
+
+.tt{
+    max-width: 1020px;
+    margin: 0 auto;
+}
+.section-two{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+    gap: 40px;
+    }
+.section-two h2{
+    color: white;
+    margin-top: 20px;
+}
+.section-two h3{
+    font-size: 70%;
+    text-align: start;
+    color: white;
+    margin-top: 20px;
+    font-size: 80%;
+}
+.left-container{
+    display: flex;
+    flex-direction: column;
+}
+.right-container ul{
+    margin-top: 20px;
+    font-size: 70%;
+}
+.right-container ul li{
+    color: white;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.three-phones{
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 150px;
+    display: flex;
+    gap:50px;
+    justify-content:center;
+}
+.three-phones img{
+    height: 450px;
+}
+.three-phones .card:nth-child(2) img{
+    height: 400px;
+    margin-top: 50px;
+}
+.card h2{
+    color: white;
+    text-align: center;
+}
+.card h3{
+    color: white;
+    text-align: center;
+}
+.three-phones h3{
+   text-align: center;
+}
+.except{
+    max-width: 1140px;
+    display: flex;
+    margin: 0 auto;
+    color: white;
+    margin-top: 100px;
+    gap: 20px;
+}
+.except-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.except-left-bottom{
+    display: flex;
+    width: 100%;
+    justify-content:center;
+    margin-top: 50px;
+}
+.except-left h2{
+    color: #eed490;
+    text-align: start;
+    padding-right: 60px;
+}
+.except-left h3{
+    color: #eed490;
+    text-align: start;
+    padding-right: 60px;
+}
+.except-card p{
+    margin-top: 15px;
+    font-size: 70%;
+}
+.except-card:nth-child(1) p{
+    padding-right:40px;
+}
+.except-card:nth-child(2) p{
+    padding-right:40px;
+}
+.except-card:nth-child(3) p{
+    padding-right:10px;
+}
+.advanced{
+    background-image:url("../img/Iphone7.jpeg" );
+    height: 540px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:right;
+    /* background-size: cover; */
+    color: white;
+    display: flex;
+    align-items:center;
+}
+.advanced-text{
+    max-width: 500px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.other-cont{
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+}
+.other-cont img{
+    margin-top: 50px;
+}
+.other-cont-text{
+    color: white;
+    position:absolute;
+    bottom: 0;
+    left: 50px;
+}
+
+.other-cont-text h2{
+    color: #eed490;
+    max-width: 450px;
+    margin: 0 auto;
+    font-size: 300%;
+}
+.other-cont-text h3{
+    max-width: 550px;
+    margin: 0 auto;
+}
+.other-cont{
+margin-bottom: 100px;
+}
+.grid-container{
+    max-width: 1140px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns:repeat(auto-fill,minmax(380px,1fr));
+    margin-bottom: 150px;
+}
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6{
+    height:346px;
+    /* max-width:380px; */
+    background: black;
+     background: rgba(255, 255, 255, 0.4);
+    opacity: 1;
+    transition: opacity 324ms linear;
+    cursor: pointer;
+    position: relative;
+}
+.img1{
+    background-image: url(../img/iphone9.jpeg);
+    background-repeat: no-repeat;
+    background-position: 95.59% 50%;
+    background-size: cover; 
+}
+.img1::before,
+.img2::before,
+.img3::before,
+.img3::before,
+.img4::before,
+.img5::before,
+.img6::before{
+    width: 100%;
+    height: 50px;
+    content: "Info";
+    position: absolute;
+    bottom: -50px;
+    text-align: center;
+    transition: .2s;
+    opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 12;
+}
+.img1:hover::before,
+.img2:hover::before,
+.img3:hover::before,
+.img4:hover::before,
+.img5:hover::before,
+.img6:hover::before{
+    bottom: 0;
+    opacity: 1 !important;
+    background-color: white;
+}
+.img2{
+    background-image: url(../img/iphone10.jpeg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover; 
+}
+.img3{
+    background-image: url(../img/iphone11.jpeg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover; 
+}
+.img4{
+    background-image: url(../img/iphone12.PNG);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover; 
+}
+.img5{
+    background-image: url(../img/iphone13.jpeg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover; 
+}
+.img6{
+    background-image: url(../img/iphone14.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover; 
+}
+.img1:hover,
+.img2:hover,
+.img3:hover,
+.img4:hover,
+.img5:hover,
+.img6:hover{
+    opacity: 0.5;
+}
